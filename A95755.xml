@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dailie examination, and arraignment of sins gathered out of the most reverend the primate of Ireland's sermon at Lincolns Inn. Decemb. 3. 1648.</title>
+            <author>Ussher, James, 1581-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95755</idno>
+            <idno type="STC">Wing U164</idno>
+            <idno type="STC">Thomason 669.f.16[60]</idno>
+            <idno type="STC">ESTC R211509</idno>
+            <idno type="EEBO-CITATION">99870230</idno>
+            <idno type="PROQUEST">99870230</idno>
+            <idno type="VID">163213</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163213)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[60])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dailie examination, and arraignment of sins gathered out of the most reverend the primate of Ireland's sermon at Lincolns Inn. Decemb. 3. 1648.</title>
+                  <author>Ussher, James, 1581-1656.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Primate of Ireland = James Ussher.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Thomason received his copy in July 1652.</note>
+                  <note>Annotation on Thomason copy: "July. 30.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163213:1" rendition="simple:additions"/>
+            <head>The dailie Examination, and Arraignment of Sins; gathered out of the moſt Reverend the
+Primate of Ireland's Sermon at Lincolns-Inn. Decemb. 3. 1648.</head>
+            <list>
+               <item>THe <hi>neceſsitie</hi> of <hi>dai<g ref="char:EOLhyphen"/>lie
+examination,</hi> ap<g ref="char:EOLhyphen"/>pear's
+by theſe Reaſons.
+<list>
+                     <item>1. Becauſ <hi>green wounds</hi> are <hi>eaſily cured;</hi> and nothing <hi>feſter's</hi> ſo <hi>quickly,</hi> or ſo <hi>fowly,</hi> as <hi>ſin:</hi> When <hi>David's heart</hi>
+had preſently <hi>ſmote him</hi> for cutting off the skirt of <hi>Saul's</hi> robe, hee hear'd no more of that: but that <hi>ſin with
+Urias his wife,</hi> wherein hee ſoaked ſo long, <hi>brake his bones,</hi> as appeareth by his praier, <hi>Pſal.</hi> 51. 8.</item>
+                     <item>2. Thou do'ſt <hi>help</hi> thy <hi>memorie</hi> by this (my Soul!): for if in <hi>one daies account manie ſins</hi> bee <hi>forgotten,</hi> how manie
+muſt bee forgotten, if thou leav it to bee the <hi>account of manie daies?</hi>
+                     </item>
+                     <item>3. <hi>Sin divided</hi> thus <hi>into parcels,</hi> is <hi>more eaſily deal't with,</hi> as a maſſie Tree cut out into Billets, or ſmaller pieces.</item>
+                     <item>4. <hi>Thou do'ſt by this means</hi> (my ſoul!) <hi>prevent Satan's accuſation:</hi> that <hi>Accuſer</hi> of the <hi>brethren</hi> doth (no doubt)
+<hi>bill</hi> thee daily; what a comfort will it bee for thee (my Soul!), that thou haſt been ſueing out thy <hi>pardon,</hi>
+ere hee could com to put in a <hi>charge</hi> againſt thee.</item>
+                     <item>5. O my Soul, <hi>Thou lookeſt daily on everie thing elſ</hi> that thou haſt, on thy <hi>Houſ, Land, Cattle, Clothes;</hi> on what<g ref="char:EOLhyphen"/>ever
+thou haſt, that may bee <hi>impaired,</hi> or <hi>improoved</hi> daily; what <hi>a ſhame</hi> is it (my Soul!) <hi>thy ſelf</hi> ſhould <hi>bee leſs</hi>
+conſiderable to <hi>thy ſelf.</hi>
+                     </item>
+                     <item>6. <hi>Thou art permitted to live</hi> but <hi>to this purpoſe,</hi> whatever worldlie ends of living thou propoſe to thy ſelf: and
+thou knoweſt not, if thou neglect this, whether anie more time will bee given thee. See <hi>Revel.</hi> 2. 21.</item>
+                     <item>7. If <hi>thou perform this exactly,</hi> and <hi>constantly everie night</hi> and <hi>morning,</hi> thou wilt (my Soul!) have but <hi>one day to
+anſwer for all at thy parting hence:</hi> O what an <hi>eaſ</hi> would that bee to a dying man!</item>
+                  </list>
+               </item>
+            </list>
+            <p>When theſe, or the like Reaſons, have convinced thee of the <hi>neceſsitie</hi> of this <hi>Examination,</hi> and affected thy heart with a deſire there<g ref="char:EOLhyphen"/>to,
+proceed after this plain manner.</p>
+            <list>
+               <item>Examine thy
+<list>
+                     <item>Thoughts</item>
+                     <item>Words</item>
+                     <item>Actions</item>
+                  </list>
+               </item>
+               <item>by theſe
+3. words <hi>Tit.</hi> 2. 12
+<list>
+                     <item>Soberly</item>
+                     <item>Juſtly</item>
+                     <item>Godly</item>
+                  </list>
+               </item>
+               <item>thus: O my Soul, have I been
+<list>
+                     <item>
+                        <note n="a" place="margin">To bee SOBER, <hi>is</hi> ge<g ref="char:EOLhyphen"/>nerally to obſerv a mean in all things, and to moderate our ſelvs in our paſsions, d<gap reason="illegible: missing" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſires, meat, drink, clothes, mirth, diſcourſ, and all our actions. <hi>Examine thy ſelf, whether thou haſt according to theſe particulars, been</hi> ſober <hi>in thy thoughts, words, deeds this daie: where thou findeſt thou haſt, give God thanks, and beg perſeverance; where thou findeſt the contrarie, beg pardon, and reſolv for the future againſt it.</hi>
+                        </note> 
+                        <hi>SOBER</hi> in my
+<list>
+                           <item>Thoughts</item>
+                           <item>Words</item>
+                           <item>Actions?</item>
+                        </list>
+                     </item>
+                     <item>
+                        <note n="b" place="margin">To bee JUST, <hi>is,</hi> in thought, word, and deed, to do that right thou wouldeſt bee don to, and the Scriptures require, to the perſon, ſoul, bodie, name, eſtate of everie man; to render their dues to all, whether ſuperiors, inſe<g ref="char:EOLhyphen"/>riors, or equals: <hi>examine by theſe particulars how</hi> just <hi>thou haſt this daie been, and according as thou findeſt thy ſelf, proceed, as directed in the deſcription of Sobrietie.</hi>
+                        </note> 
+                        <hi>JUST</hi> in my
+<list>
+                           <item>Thoughts</item>
+                           <item>Words,</item>
+                           <item>Actions?</item>
+                        </list>
+                     </item>
+                     <item>
+                        <note n="c" place="margin">To bee GODLY, <hi>is,</hi> to know God, to uſe, and improov our knowledg of him, to remember him, truſt and hope in him, to have love and zeal to him, joy in him, to bee thankfull, obedient, patient towards him, to fear him, and humbly to ſubmit unto him, to reverence and honor him, to bee ſorrie for offending him, to ſerv and worſhip him, to pray, read, and hear his word, and that rightly, to ſanctifie his name, and glorifie him, in whatever hee is made known to mee by: <hi>examine thy ſelf, whether thou haſt don according, or contrarie to theſe particulars, and then proceed as above directed.</hi>
+                        </note> 
+                        <hi>GODLY</hi> in my
+<list>
+                           <item>Thoughts</item>
+                           <item>Words</item>
+                           <item>Actions?</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>Dwel on each of
+theſe, and recollect
+all places, compa<g ref="char:EOLhyphen"/>nies,
+buſineſſes,
+wherein thou haſt
+been this daie em<g ref="char:EOLhyphen"/>ploied,
+eſpecially
+examine thy
+<list>
+                     <item>
+                        <hi>Thoughts,</hi> when
+thou waſt a<g ref="char:EOLhyphen"/>lone.</item>
+                     <item>
+                        <hi>Words,</hi> when
+in Companie.</item>
+                     <item>
+                        <hi>Actions,</hi> both
+waies.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Eſpecially my Soul, thou art to <hi>finde out</hi> thy <hi>maſter-ſin;</hi> in order to which, thou commonly committeſt moſt of thy other ſins: as
+if <hi>covetouſneſs</hi> bee thy maſter-ſin, there is no other ſin which thou wilt not do, to fulfil its deſires; thou wilt diſhonor God, ſwear, violate
+the Lord's daie, bee diſobedient to Superiors, murther, commit adulterie, ſteal, bear falſ-witneſs, to gratifie thy covetouſneſs. And ſo if
+<hi>pride,</hi> or anie other ſin bee thy maſter ſin. If thou would'ſt know it,</p>
+            <list>
+               <item>It's that,</item>
+               <item>1. Thy <hi>Thoughts</hi> are <hi>moſt converſant about;</hi> as when <hi>David</hi> awoke hee was preſently with God; ſo art thou with thy
+maſter-ſin.</item>
+               <item>2. Thou <hi>can'ſt not endure it ſhould bee touched,</hi> either by the own examination, or others reproof.</item>
+            </list>
+            <p>When thou haſt found this <hi>Ring-leader of thy ſins,</hi> go to God with ſtrong cries, beg earneſtly of him; O my God, give mee grace to
+bee deeply ſorrowful for what's paſt, to reſolv preſently againſt it, and for the time to com, to endeavor by all means, that this chief ene<g ref="char:EOLhyphen"/>mie
+of my ſoul, may not bee re-admitted.</p>
+            <p>Thy <hi>ſins</hi> of the daie beeing diſcovered, thou art to <hi>diſcover the hainouſneſs</hi> of them, leſt that thou <hi>paſs</hi> them over too <hi>ſlightly;</hi> Therefore
+they are to bee <hi>tried</hi> and <hi>arraigned,</hi> by conſidering theſe following Points, and ſaying to thy Soul,</p>
+            <p>1. O my Soul, thou haſt by the <hi>ſins</hi> of this day, <hi>forſaken God,</hi> whom thou ſhouldeſt have <hi>ſimply ſtuck to,</hi> as beeing moſt <hi>excellent,</hi> and <hi>ami<g ref="char:EOLhyphen"/>able</hi>
+in himſelf, and moſt <hi>bountiful</hi> alſo unto thee.</p>
+            <p>2. Thou haſt <hi>forſaken</hi> him for <hi>inconſiderable things,</hi> for <hi>profit</hi> with <hi>Judas,</hi> for <hi>pleaſure</hi> with <hi>Eſau;</hi> how wicked do'ſt thou think them, for
+what they did, and what can'ſt thou think of thy ſelf doing the ſame things? O my ſoul, thou haſt left God for <hi>tranſitorie things,</hi> that (if
+they were <hi>permanent</hi>) can neither <hi>ſatisfie</hi> nor <hi>ſave</hi> thee from <hi>Death</hi> or <hi>Judgement;</hi> and the <hi>leſſer</hi> thy <hi>motive</hi> was, the <hi>greater</hi> is thy <hi>ſin;</hi> eſpe<g ref="char:EOLhyphen"/>cially
+if thou haſt ſworn, which is a ſin men do <hi>gratìs</hi> commonly, and for no advantage, whoſe doom is to bee ſeen, <hi>Pſalm.</hi> 25. 2.</p>
+            <p>3. Thou haſt <hi>offended againſt</hi> thy God's <hi>precept</hi> (O my Soul!), and hee ſeem's to ſpeak unto thee, as hee did to <hi>Adam,</hi> haſt thou eaten of
+the Tree I <hi>forbad</hi> thee, Haſt thou <hi>thought,</hi> and <hi>ſpoken,</hi> and <hi>don</hi> this daie what I <hi>forbad</hi> thee?</p>
+            <p>4. O my Soul, thou haſt not offended againſt his precept onely, but notwithſtanding his help to obſerv it, hee gave thee <hi>grace,</hi> and thou
+did'ſt not uſe it; a little grace goe's far, and thou mighteſt have thereby kep't God's word, <hi>Rev.</hi> 3. 8. but thou haſt (my Soul!) <hi>received the
+grace of God in vain.</hi>
+            </p>
+            <p>Haveing found the <hi>hainouſneſs</hi> of thy ſin,<note place="margin">If wee would <hi>judg</hi> our ſelvs, wee ſhould not bee <hi>judged.</hi> 1. Cor. 11. 31.</note> and thy ſelf thus <hi>guiltie,</hi> what remain's (my Soul!) but that thou ſentence thy
+ſelf and ſay, O my Soul, how can it bee but that <hi>God for ſake's thee</hi> alſo, and take's away his Spirit, Graces, Angels, from
+thee, leaving thee without guide, or protector, to bee worried by the Divel, the world, and the fleſh? Think whe<g ref="char:EOLhyphen"/>ther
+thou can'ſt ſleep in ſuch a caſe; O then (leſt vengeance overtake thee, and to recover thy former intereſt in God) be<g ref="char:EOLhyphen"/>take
+thee quickly unto him, in this or the like Prayer.</p>
+         </div>
+         <div type="prayer">
+            <opener>
+               <salute>Bleſſed Lord!</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have oft this daie by intemperance, unrighteouſnes, and ungodlineſs, in thought, word, and deed, forſaken thee my God, notwithſtanding thy Precept
+yea thy help of Grace to obſerv it; and this I have don for inconſiderable things, ſo that I am now to bee forſaken by thee, to bee bereft of thy direction,
+and defence, and to bee left, to the diſpoſeing of the enemies of my ſoul and bodie; yet O Lord, thou haſt graciouſly vouchſafed mee power to ſurvey my
+condition, to examine my ſins, whileſt yet cureable, and to bee dealt withal, afore the Divel's accuſation hath drawn down thy vengeance; whil'ſt I am
+permitted to live, and dureing this time accepted, this daie of ſalvation, Good Lord perfect what thou haſt begun, give me an unfained ſorrow for what
+is paſt, and an earnest purpoſe to amend; O let mee recover thy good will, that I may reſt in thy favor. Dear Father, I long to renew that friendſhip, I
+<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ad with thee ere theſe my ſins had broken it, Thou that haſt brought mee from my ſins, to theſe deſires, bring theſe deſires to perfection; re-unite mee to
+Thy ſelf, and then raviſh my heart ſo with thy excellencies, that I may never more luſt after the pleaſures, profits, honors of this world ſo, as to loſe that
+<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mitie which thou ſhalt this night vouchſafe mee: Hear Lord, and anſwer theſe my petitions, for Jeſus Chriſt's ſake, <hi>Amen.</hi>
+            </p>
+            <p>Grudg not to <hi>beſtow</hi> the <hi>pains of a life,</hi> that will <hi>quickly end,</hi> to <hi>compaſs</hi> that <hi>life</hi> which ſhall <hi>never end.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
